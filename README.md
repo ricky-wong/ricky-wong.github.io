@@ -9,3 +9,6 @@ I'm a full-stack web engineer born and humbly raised in the Bay Area, always str
 B.S., Computer Engineering
 California Polytechnic State University, San Luis Obispo
 Fall 2005 - Spring 2009
+
+## Portfolio
+The entire [Paper Culture](https://www.paperculture.com) site is basically my frontend portfolio. I can tell you how every single component is built and optimized.
