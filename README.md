@@ -1,5 +1,5 @@
 # Ricky Wong
-I'm a full-stack web engineer born and humbly raised in the Bay Area, always striving to learn and get better at whatever I do. I enjoy sharing knowledge, playing with gadgets, taking photos, and practicing effective communication.
+I'm a full-stack web engineer born, humbly raised, and living in North San Jose, California, always striving to learn and get better at whatever I do. I enjoy sharing knowledge, playing with gadgets, taking photos, and practicing effective communication.
  * <ricky@rickywong.online>
  * [GitHub](https://github.com/rwong48)
  * [LinkedIn](https://www.linkedin.com/in/rickylwong/)
